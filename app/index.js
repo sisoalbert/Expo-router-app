@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View } from "react-native";
-import Home from "../app/stack/index";
+import Home from "../app/stack/home";
 
 export default function Page() {
   return (
